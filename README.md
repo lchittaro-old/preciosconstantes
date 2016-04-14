@@ -2,7 +2,7 @@
 Serie de precios constantes del comercio exterior argentino 1993-2013
 
 
-Este repositorio contiene todo el material vinculado con la elaboración de la Serie de precios constantes del comercio exterior argentino 1993-2013
+Este repositorio contiene todo el material vinculado con la elaboración de la Serie de precios constantes del comercio exterior argentino 1993-2013, al cual se puede acceder en www.blogdelcespa.blogspot.com y http://lchittaro.github.io/preciosconstantes/ 
 
 
 1. Bases de datos, en xlsx y csv
