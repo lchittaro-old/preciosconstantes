@@ -1,0 +1,33 @@
+Manual para Visualización de Tablau
+Serie de comercio exterior argentino 1993-2013
+
+Este documento busca aclarar las posibles dudas en el uso de la visualización
+de Tableau de la serie de comercio exterior.
+
+La visualización muestra series de precios corrientes y constantes bajo clasifi-
+cacion HS92 hasta 4 dígitos e ICA.
+
+El filtro llamado "Flujo" permite seleccionar importaciones y/o exportaciones.
+
+Bajo el rótulo "ICA", se pueden incluir flitros según esta clasificación.
+
+Los filtros "HS92 a 2 y a 4" dígitos permiten mostrar uno o mas productos bajo
+distinto nivel de apertura.
+
+Los filtros llamados "Desc." permiten buscar productos a 2 o 4 dígitos de clasi-
+ficación HS92 por el nombre.
+
+Por último, el filtro que se titula "Corr. Combustibles" permite quitar o in-
+cluir las partidas que fueron revisadas. Se debe seleccionar ambas opciones si
+se busca trabajar con la totalidad de la base, y se debe destildar "cc" si se
+prefiere trabajar solo con los datos no corregidos.
+
+
+Cualquier filtro puede ser eliminado, luego de ser aplicado. Adicionalmente, se
+le ofrece al usuario la posibilidad de utulizar las flechas que están en la
+esquina inferior derecha para revertir cualquier cambio o restaurar la dispo-
+sicion inicial.
+
+Si se quiere descargar la visualización, se puede hacer en la esquina derecha
+inferior de la pantalla donde está el grafico.
+
