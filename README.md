@@ -15,3 +15,5 @@ Este repositorio contiene todo el material vinculado con la elaboración de la S
 
 
 4. Manual para el uso de la visualización
+
+Para mayor información www.blogdelcespa.blogspot.com
