@@ -7,13 +7,11 @@ Este repositorio contiene todo el material vinculado con la elaboración de la S
 
 1. Bases de datos, en xlsx y csv
 
-
 2. Documento de trabajo donde se detalla el proceso de elaboración
-
 
 3. Visualización generada en Tableau
 
-
-4. Manual para el uso de la visualización
+4. Manual para el uso de la base y la visualización
 
 Para mayor información www.blogdelcespa.blogspot.com
+Feedback en esta misma página, en http://goo.gl/forms/JsxZ2eIv3y o en el blog. 
