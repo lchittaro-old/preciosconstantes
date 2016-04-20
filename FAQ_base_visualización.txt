@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<meta charset="character_set">
 Manual para Visualización de Tablau
 Serie de comercio exterior argentino 1993-2013
 
