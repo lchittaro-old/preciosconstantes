@@ -1,33 +1,37 @@
-Manual para Visualizaci�n de Tablau
+Manual para Visualización de Tablau
 Serie de comercio exterior argentino 1993-2013
 
-Este documento busca aclarar las posibles dudas en el uso de la visualizaci�n
+Este documento busca aclarar las posibles dudas en el uso de la base de datos y de la visualización
 de Tableau de la serie de comercio exterior.
 
-La visualizaci�n muestra series de precios corrientes y constantes bajo clasifi-
-cacion HS92 hasta 4 d�gitos e ICA.
+Las categorías de la base descargable son Flujo, Año, Code, C1, C2, Code Desc., C1 Desc., Valor Constante, Valor Corriente e ICA.
+Flujo: variable binaria, indica si es un flujo de exportación o importación.
+Año: en formato de fecha, indica el año correspondiente al flujo
+Code: Código a 4 dígitos del producto, en clasificación HS92
+C1: Código de los 2 primeros dígitos que corresponden a la clasificación del producto en HS92
+C1: Código de los 2 segundos dígitos que corresponden a la clasificación del producto en HS92
+Code Desc.: Descriptor de Code.
+C1 Desc.: Descriptos de C1.
+Valor Constante: Valor constante de la serie
+Valor Corriente: Valor corriente de la serie
+ICA: Clasificación ICA de la serie.
 
+La visualización muestra series de precios corrientes y constantes bajo clasifi-
+cacion HS92 hasta 4 dígitos e ICA.
 El filtro llamado "Flujo" permite seleccionar importaciones y/o exportaciones.
-
-Bajo el r�tulo "ICA", se pueden incluir flitros seg�n esta clasificaci�n.
-
-Los filtros "HS92 a 2 y a 4" d�gitos permiten mostrar uno o mas productos bajo
+Bajo el rótulo "ICA", se pueden incluir flitros según esta clasificación.
+Los filtros "HS92 a 2 y a 4" dígitos permiten mostrar uno o mas productos bajo
 distinto nivel de apertura.
-
-Los filtros llamados "Desc." permiten buscar productos a 2 o 4 d�gitos de clasi-
-ficaci�n HS92 por el nombre.
-
-Por �ltimo, el filtro que se titula "Corr. Combustibles" permite quitar o in-
+Los filtros llamados "Desc." permiten buscar productos a 2 o 4 dígitos de clasi-
+ficación HS92 por el nombre.
+Por último, el filtro que se titula "Corr. Combustibles" permite quitar o in-
 cluir las partidas que fueron revisadas. Se debe seleccionar ambas opciones si
 se busca trabajar con la totalidad de la base, y se debe destildar "cc" si se
 prefiere trabajar solo con los datos no corregidos.
-
-
 Cualquier filtro puede ser eliminado, luego de ser aplicado. Adicionalmente, se
-le ofrece al usuario la posibilidad de utulizar las flechas que est�n en la
+le ofrece al usuario la posibilidad de utulizar las flechas que están en la
 esquina inferior derecha para revertir cualquier cambio o restaurar la dispo-
 sicion inicial.
-
-Si se quiere descargar la visualizaci�n, se puede hacer en la esquina derecha
-inferior de la pantalla donde est� el grafico.
+Si se quiere descargar la visualización, se puede hacer en la esquina derecha
+inferior de la pantalla donde está el grafico.
 
