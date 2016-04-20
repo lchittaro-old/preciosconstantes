@@ -1,4 +1,4 @@
-Manual para Visualización de Tablau
+Manual de dudas para Base y Visualización de Tablau
 Serie de comercio exterior argentino 1993-2013
 
 Este documento busca aclarar las posibles dudas en el uso de la base de datos y de la visualización
